@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "id": "verbs",
+      "name": "Verbs",
+      "color": "#3B82F6",
+      "description": "Common English verbs and their usage"
+    },
+    {
+      "id": "idioms",
+      "name": "Idioms",
+      "color": "#10B981",
+      "description": "Common English idioms and expressions"
+    },
+    {
+      "id": "adjectives",
+      "name": "Adjectives",
+      "color": "#F59E0B",
+      "description": "Descriptive words and modifiers"
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced",
+      "color": "#EF4444",
+      "description": "Advanced vocabulary for proficient learners"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "card-001",
+      "question": "To seize an opportunity",
+      "answer": "Grasp",
+      "categories": ["verbs"],
+      "difficulty": 2,
+      "notes": "Can also mean to understand something"
+    },
+    {
+      "id": "card-002",
+      "question": "Break the ice",
+      "answer": "Start a conversation",
+      "categories": ["idioms"],
+      "difficulty": 1,
+      "notes": "Used in social situations to make people feel comfortable"
+    },
+    {
+      "id": "card-003",
+      "question": "Extremely beautiful or impressive",
+      "answer": "Stunning",
+      "categories": ["adjectives"],
+      "difficulty": 1,
+      "notes": "Often used to describe people, views, or achievements"
+    },
+    {
+      "id": "card-004",
+      "question": "To make something less severe",
+      "answer": "Mitigate",
+      "categories": ["verbs", "advanced"],
+      "difficulty": 4,
+      "notes": "Commonly used in formal or technical contexts"
+    },
+    {
+      "id": "card-005",
+      "question": "A blessing in disguise",
+      "answer": "Something good that seemed bad at first",
+      "categories": ["idioms"],
+      "difficulty": 2,
+      "notes": "Example: Losing my job was a blessing in disguise"
+    },
+    {
+      "id": "card-006",
+      "question": "Full of energy and enthusiasm",
+      "answer": "Vibrant",
+      "categories": ["adjectives"],
+      "difficulty": 2,
+      "notes": "Can describe people, colors, or atmospheres"
+    },
+    {
+      "id": "card-007",
+      "question": "To speak or write at length about",
+      "answer": "Elaborate",
+      "categories": ["verbs"],
+      "difficulty": 3,
+      "notes": "Often used with 'on': Please elaborate on your answer"
+    },
+    {
+      "id": "card-008",
+      "question": "Hit the nail on the head",
+      "answer": "Be exactly right",
+      "categories": ["idioms"],
+      "difficulty": 1,
+      "notes": "Used when someone says something precisely accurate"
+    },
+    {
+      "id": "card-009",
+      "question": "Existing in thought but not reality",
+      "answer": "Abstract",
+      "categories": ["adjectives", "advanced"],
+      "difficulty": 4,
+      "notes": "Opposite of concrete or tangible"
+    },
+    {
+      "id": "card-010",
+      "question": "To make something seem less important",
+      "answer": "Downplay",
+      "categories": ["verbs"],
+      "difficulty": 2,
+      "notes": "Often used in discussions or arguments"
+    },
+    {
+      "id": "card-011",
+      "question": "The best of both worlds",
+      "answer": "All the advantages",
+      "categories": ["idioms"],
+      "difficulty": 1,
+      "notes": "Having two different benefits at the same time"
+    },
+    {
+      "id": "card-012",
+      "question": "Showing great attention to detail",
+      "answer": "Meticulous",
+      "categories": ["adjectives", "advanced"],
+      "difficulty": 5,
+      "notes": "Indicates thoroughness and precision"
+    },
+    {
+      "id": "card-013",
+      "question": "To make a problem worse",
+      "answer": "Exacerbate",
+      "categories": ["verbs", "advanced"],
+      "difficulty": 5,
+      "notes": "Often used in medical or formal contexts"
+    },
+    {
+      "id": "card-014",
+      "question": "Once in a blue moon",
+      "answer": "Very rarely",
+      "categories": ["idioms"],
+      "difficulty": 2,
+      "notes": "Refers to something that almost never happens"
+    },
+    {
+      "id": "card-015",
+      "question": "Temporary and not lasting",
+      "answer": "Ephemeral",
+      "categories": ["adjectives", "advanced"],
+      "difficulty": 5,
+      "notes": "Often used to describe beauty, moments, or phenomena"
+    }
+  ]
+}
